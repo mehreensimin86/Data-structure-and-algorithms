@@ -2,12 +2,13 @@
 # Description
 This repository contains Data Structure and Algorithm programs using C language
 # Topics
-Binary Search
-linear search
-Bubble sort
-Array insertion
-String insertion
-Array delation
+- Binary Search
+- Selection Sort
+- Array Insertion
+- Array Deletion
+- Linked List Creation
+- Linked List Insertion
+
 # Language used
 C programing Language
 # purpose
