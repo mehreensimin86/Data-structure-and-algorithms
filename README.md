@@ -3,11 +3,23 @@
 This repository contains Data Structure and Algorithm programs using C language
 # Topics
 - Binary Search
+- Linear Search
 - Selection Sort
+- Bubble sort
 - Array Insertion
 - Array Deletion
+- Substring insertion
 - Linked List Creation
+- Linked list traversal
 - Linked List Insertion
+- Stack implementation
+- stack pop-push
+- stack peek/top
+- stack bottom to top
+- queue implementation
+- Enqueue
+- Dequeue
+- Queue peek
 
 # Language used
 C programing Language
